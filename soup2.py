@@ -18,7 +18,6 @@ class Location:
         self.windspeed = windspeed
 
     def toString(self):
-
         return "Location: " + self.name + " ||  Temperature: " + self.temperature + "°C || " + "Humidity: " + self.humidty + " || Windspeed: " + self.windspeed
 
 
